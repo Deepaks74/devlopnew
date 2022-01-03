@@ -11,3 +11,5 @@ Write :/2 'How are you '.
 write :/2 ' welcome again'.
 
 write :/2  ' Line 3 '.
+
+write :/2 ' Line 4'.
