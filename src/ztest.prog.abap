@@ -7,3 +7,4 @@ REPORT ZTEST.
 
 
 Write :/2 'How are you '.
+write :/2 'Welcome'.
